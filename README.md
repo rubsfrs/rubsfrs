@@ -7,7 +7,7 @@
 
 <div align="center">
   <img height="200" src="#"  />
-  <h3>Designer | Frontend Developer</h3>
+  <h3>Designer | Front-end Developer</h3>
 
   Entusiasta automotivo, gamer e viajante. Tento ser fotógrafo.
 </div>
