@@ -24,7 +24,7 @@
 
 | Design & UI | Ferramentas | Frontend
 | :---: | :---: |  :---: |
-| [![My Skills](https://skillicons.dev/icons?i=figma,blender)](https://skillicons.dev) 
+| [![My Skills](https://skillicons.dev/icons?i=figma,blender)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=react,vite,html,css,js)](https://skillicons.dev) |
 
 </div>
 
